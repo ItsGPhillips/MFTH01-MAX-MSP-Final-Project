@@ -1,0 +1,32 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "MonsterCrunch.amxd",
+	"origin" : "MonsterCrunch.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "MonsterCrunch.amxd",
+		"origname" : "C74:/packages/Max for Live/patchers/Max Audio Effect/Monster Crunch/MonsterCrunch.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Initial Gain" : 54.0,
+				"filter-cutoff" : 3208.858267716533646,
+				"hi-freq-depth" : 197.0,
+				"hi-freq-offset" : 0.78,
+				"hi-mod-freq" : 1.0,
+				"level" : 0.0,
+				"low-freq-depth" : 55.0,
+				"low-freq-offset" : 0.42,
+				"low-mod-freq" : 4.0,
+				"lowpass-resonance" : 0.379370078740158,
+				"wet-dry" : 100.0
+			}
+
+		}
+
+	}
+
+}
